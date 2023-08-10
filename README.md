@@ -25,7 +25,7 @@ Metkagram is more than just another language learning tool—it's a revolution i
 
 ## 📢 Feedback & Support
 
-Your feedback is invaluable. Whether you've found a pesky bug or have a feature on your wishlist, [Open an issue](URL_to_GitHub_Issues) and let us know!
+Your feedback is invaluable. Whether you've found a pesky bug or have a feature on your wishlist, [Open an issue](https://github.com/metkagramer/metkagram/issues) and let us know!
 
 ## 🔗 Stay Connected
 
