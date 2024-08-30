@@ -26,8 +26,8 @@ Got ideas, found a bug, or just want to say hey? Open an issue and tell us what�
 🖐 Wanna Help Out?
 
 Love languages as much as we do? Let’s team up and make Metkagram even better. Download the app and start your journey!
-- [Get it on Android](https://play.google.com/store/apps/details?id=app.metkagram.android)  
-- [Download on iOS](https://apps.apple.com/us/app/grammar-flashcards-metkagram/id6502211918)
+- [Grammar flashcards on Android](https://play.google.com/store/apps/details?id=app.metkagram.android)  
+- [Grammar flashcards on iOS](https://apps.apple.com/us/app/grammar-flashcards-metkagram/id6502211918)
 
 
 Jump in and start learning in a way that actually makes sense! 🚀
